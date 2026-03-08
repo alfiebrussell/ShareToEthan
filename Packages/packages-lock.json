@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.spoiledcat.git": {
+      "version": "file:C:/Users/abrus/VS_Code_Projects/Stuff/Git for unity.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {}
+    },
     "com.unity.2d.animation": {
       "version": "13.0.4",
       "depth": 0,
