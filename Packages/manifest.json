@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.community.antigravity-unity": "https://github.com/usmanbutt-dev/antigravity-unity.git",
     "com.spoiledcat.git": "file:C:/Users/abrus/VS_Code_Projects/Stuff/Git for unity.tgz",
     "com.unity.2d.animation": "13.0.4",
     "com.unity.2d.aseprite": "3.0.1",
